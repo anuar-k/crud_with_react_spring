@@ -1,0 +1,6 @@
+.Footer {
+    margin: 0 auto;
+    grid-area: footer;
+    height: 300px;
+    width: 99%;
+}

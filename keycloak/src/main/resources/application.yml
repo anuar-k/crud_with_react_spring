@@ -1,0 +1,17 @@
+server:
+  port: 8000
+
+keycloak:
+  realm: demo
+  auth-server-url: http://localhost:8080/auth
+  ssl-required: external
+  resource: springboot-keycloak
+  credentials:
+    secret: ogbN2WT3rDMoxPxEzevEP4ta17lSUnmo
+  use-resource-role-mappings: true
+  bearer-only: true
+
+logging:
+  level:
+    root: info
+    com.psc.sample.keycloak: INFO

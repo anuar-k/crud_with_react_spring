@@ -1,0 +1,14 @@
+.Users {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: center;
+    color: #fff;
+}
+
+.activePage {
+    font-weight: bold;
+    cursor: pointer;
+    color: #5d5656;
+}

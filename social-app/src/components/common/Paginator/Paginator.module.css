@@ -1,0 +1,10 @@
+.activePage {
+    font-weight: bold;
+    cursor: pointer;
+    color: #5d5656;
+}
+
+.Paginator button, span {
+    cursor: pointer;
+    font-size: 10px;
+}

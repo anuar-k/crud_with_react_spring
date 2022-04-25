@@ -1,0 +1,42 @@
+.Message {
+    padding: 0;
+    margin: 0;
+    padding-top: 40px;
+    cursor: pointer;
+    border-left: 1px solid #ffffff;
+}
+
+.my {
+    padding: 0;
+    line-height: 1.5;
+    background-color: gold;
+    color: #ffffff;
+    min-width: 20px;
+    max-width: 300px;
+    border-radius: 10px 10px 0 10px;
+    padding: 5px;
+    opacity: 0.9;
+    margin-left: 350px;
+    margin-top: 5px;
+}
+
+.red {
+    padding: 0;
+    line-height: 1.5;
+    background-color: #771212;
+    color: #ffffff;
+    margin: 20px;
+    min-width: 20px;
+    max-width: 300px;
+    border-radius: 10px 10px 10px 0;
+    padding: 5px;
+    opacity: 0.9;
+}
+
+.red:hover, .my:hover {
+    /*font-weight: 700;*/
+}
+
+textarea {
+    margin-top: 20px;
+}

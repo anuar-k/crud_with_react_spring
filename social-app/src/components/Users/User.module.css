@@ -1,0 +1,39 @@
+.User {
+    width: 150px;
+    height: 150px;
+    font-size: 14px;
+    cursor: pointer;
+    display: flex;
+    border: 1px solid #888888;
+    border-radius: 20px;
+
+    margin: 10px;
+    overflow: hidden;
+    box-shadow: 2px 2px 2px 2px #594b4b;
+    font-weight: bold;
+    opacity: 10;
+}
+
+.User button {
+    cursor: pointer;
+}
+
+.User img {
+    width:40px;
+    border-radius: 20px;
+}
+
+.User:hover {
+    background-color: #ffffff;
+    color: black;
+    border: 2px solid #ffffff;
+    margin: 9px;
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px #575050;
+    transition: .5s;
+}
+
+.User div {
+    padding: 10px;
+    overflow: hidden;
+}

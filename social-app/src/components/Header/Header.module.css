@@ -1,0 +1,21 @@
+.Header {
+    grid-area: header;
+    display: flex;
+}
+
+.Header img {
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.Header a {
+    flex: 1;
+}
+
+.Header a:last-child {
+    margin-left: 80%;
+    color: #2ff1d3;
+    cursor: pointer;
+}

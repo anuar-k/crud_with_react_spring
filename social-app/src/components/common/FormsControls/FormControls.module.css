@@ -1,0 +1,18 @@
+.Textarea {
+    font-size: 12px;
+}
+
+.Textarea.error input,
+.Textarea.error textarea {
+    border: 3px solid #a31717;
+}
+
+.Textarea.error span {
+    color: #a31717;
+}
+
+.error {
+    color: #a31717;
+    font-size: 12px;
+}
+

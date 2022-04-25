@@ -1,0 +1,10 @@
+* {
+    content: "";
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(120deg, #7f72d2 0%, #2ff1d3 100%);
+}
+
+body {
+    background-image: linear-gradient(120deg, #7f72d2 0%, #2ff1d3 100%);
+}

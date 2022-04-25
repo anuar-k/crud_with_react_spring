@@ -1,0 +1,15 @@
+.Post {
+    font-size: 18px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.Post img {
+    width: 50px;
+    border-radius: 25px;
+}
+
+span {
+    margin-left: 10px;
+}
